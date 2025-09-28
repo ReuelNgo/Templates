@@ -1,11 +1,3 @@
-# Email Template - Delivery of Dynamics 365 Templates and Artifacts
-
-**Subject:** Delivery of Dynamics 365 Templates and Artifacts
-
-Hello [Recipient Name],
-
-Please find attached the requested templates and artifacts for Dynamics 365:
-
 - **Word Templates for Dynamics 365**: Standard .docx templates for entity forms, letters, and documentation.
 - **SSRS Reports**: Sample .rdl files showcasing key business reports.
 - **Email Templates**: Pre-configured templates for Dynamics 365 email campaigns and notifications.
@@ -16,5 +8,3 @@ Please find attached the requested templates and artifacts for Dynamics 365:
 - **JavaScript Web Resource Templates**: Boilerplate scripts for form scripting and ribbon customizations.
 - **PCF Control Templates**: Starter projects for Power Apps Component Framework controls.
 - **Plugin and Custom Workflow Activity Templates**: C# project templates for CRM plugins and custom workflow activities.
-
-Feel free to review these resources and let me know if you need any adjustments or additional templates.
